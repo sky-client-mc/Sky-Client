@@ -48,7 +48,7 @@ For bugs, questions, or other issues, contact:
 
 **Sky Client Developer**
 
-📧 [YOUR EMAIL ADDRESS]
+
 
 ## 📜 Copyright
 
