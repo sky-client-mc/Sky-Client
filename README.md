@@ -37,10 +37,9 @@ See [`LICENSE`](LICENSE) for the complete license terms.
 
 ## 💻 Requirements
 
-* Minecraft: **[VERSION]**
-* Operating System: **Windows [VERSION] or later**
+* Minecraft: **[1.21.11]**
+* Operating System: **Windows [10-11] or later**
 * Internet connection required for license verification
-* Java: **[VERSION]**
 
 ## 🛠️ Support
 
